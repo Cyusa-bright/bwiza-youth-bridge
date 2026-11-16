@@ -1,0 +1,1 @@
+ALTER TABLE users ADD COLUMN legacy_password VARCHAR(255) NULL;
